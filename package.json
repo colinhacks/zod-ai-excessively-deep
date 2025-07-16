@@ -1,0 +1,12 @@
+{
+  "name": "scratch",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "ai": "5.0.0-beta.19",
+    "zod": "^3.25.76",
+    "typescript": "^5.8.3"
+    
+  }
+}
